@@ -1,0 +1,7 @@
+# RCM Reporting Dashboard — Python dependencies
+# Tested with Python 3.12. Install with:  pip3 install -r requirements.txt
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+openpyxl>=3.1
+# sqlite3 is part of the Python standard library — no extra package needed.
